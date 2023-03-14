@@ -1,0 +1,6 @@
+info about me
+	myName: Alina
+	age: 26
+	myFavoriteFood: Sushi
+	myFavoriteMovie: Searching
+	myFavoriteSeries: The office

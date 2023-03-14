@@ -1,0 +1,1 @@
+skills: Terminal, SQL, JSON, Postman, Python
